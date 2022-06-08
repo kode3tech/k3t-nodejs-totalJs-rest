@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-nodejs-totalJs-rest
   title: NodeJs TotalJS Rest API
-  description: 
+  description: Cria um microserviço com exposição Rest usando nodeJs e TotalJs
   tags:
     - nodejs
     - rest
     - api
     - backend
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: service
   parameters:
     - title: Provide some simple information
